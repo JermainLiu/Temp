@@ -1,0 +1,1 @@
+https://pynq.readthedocs.io/en/latest/appendix.html#assign-your-computer-a-static-ip
